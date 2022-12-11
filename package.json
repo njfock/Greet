@@ -1,0 +1,25 @@
+{
+    "name": "greet",
+    "version": "1.0.0",
+    "description": "Testing Greet",
+    "main": "greet.js",
+    "dependencies": {
+      "course-utilities": "^1.0.0",
+      "jest": "^26.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/njfock/Greet.git"
+    },
+    "author": "abel@mit.edu",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/njfock/Greet/issues"
+    },
+    "homepage": "https://github.com/njfock/Greet#readme"
+  }
+  
